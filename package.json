@@ -1,0 +1,26 @@
+{
+  "name": "ImageGridder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-connect": "^5.2.0"
+  },
+  "devDependencies": {
+    "gulp-connect": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikaido/ImageGridder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikaido/ImageGridder/issues"
+  },
+  "homepage": "https://github.com/nikaido/ImageGridder#readme"
+}
